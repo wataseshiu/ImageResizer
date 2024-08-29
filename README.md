@@ -1,1 +1,3 @@
-# ImageResizer
+# ImageResizer  
+uGUIのImageコンポーネントでSetNativeSizeを押下するとアンカー設定がクリアされてしまうため、  
+アンカー設定を維持したままサイズだけ変更できる機能を用意した
